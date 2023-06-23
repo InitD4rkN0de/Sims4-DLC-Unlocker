@@ -1,6 +1,5 @@
 # Sims4-DLC-Unlocker
 Unlocks all DLC (downloadable content) for Sims 4 free on EA Desktop or Origin.
-> Coming soon for free! Please check back daily for official release.
 
 ### Requirments:
 - Sims 4 v1.98.158.1020 or lower
