@@ -6,7 +6,7 @@ Unlocks all DLC (downloadable content) for Sims 4 free on EA Desktop or Origin.
 - EA Desktop or Origin Installed
 
 ### How to use:
-1. Extract unlocker files to any new folder. (password: d4rkn0de)
+1. Extract unlocker from archive to any new folder. (password: d4rkn0de)
 2. Make sure to close Sims 4 and disable any anti-viruses to avoid file removal.
 4. Open unlocker as **ADMINISTRATOR**.
    (if not the program won't have access to needed directories!)
